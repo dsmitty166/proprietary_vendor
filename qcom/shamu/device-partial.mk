@@ -71,6 +71,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/shamu/proprietary/libloc_eng.so:system/lib/libloc_eng.so:qcom \
     vendor/qcom/shamu/proprietary/libmdmdetect.so:system/lib/libmdmdetect.so:qcom \
     vendor/qcom/shamu/proprietary/libmm-qcamera.so:system/lib/libmm-qcamera.so:qcom \
+    vendor/qcom/shamu/proprietary/lib/libmemalloc.so:system/lib/libmemalloc.so \
     vendor/qcom/shamu/proprietary/librmnetctl.so:system/lib/librmnetctl.so:qcom \
     vendor/qcom/shamu/proprietary/libtinycompress.so:system/lib/libtinycompress.so:qcom \
     vendor/qcom/shamu/proprietary/libqcomvisualizer.so:system/lib/soundfx/libqcomvisualizer.so:qcom \
