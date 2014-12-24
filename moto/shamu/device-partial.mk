@@ -115,4 +115,8 @@ PRODUCT_COPY_FILES := \
     vendor/moto/shamu/proprietary/svsid_triggerogn_enus_3_1.raw:system/vendor/moto/audiomonitor/sensory/svsid_triggerogn_enus_3_1.raw:moto \
     vendor/moto/shamu/proprietary/svsid_triggerogn_frfr_1_0.raw:system/vendor/moto/audiomonitor/sensory/svsid_triggerogn_frfr_1_0.raw:moto \
     vendor/moto/shamu/proprietary/svsid_triggerogn_ptbr_2_1.raw:system/vendor/moto/audiomonitor/sensory/svsid_triggerogn_ptbr_2_1.raw:moto \
+    vendor/moto/shamu/proprietary/com.motorola.triggerenroll.xml:/etc/permissions/com.motorola.triggerenroll.xml:moto \
+    vendor/moto/shamu/proprietary/libtrainingcheck.so:/lib/libtrainingcheck.so:moto \
+    
+    
 
