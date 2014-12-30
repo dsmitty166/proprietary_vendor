@@ -117,6 +117,11 @@ PRODUCT_COPY_FILES := \
     vendor/moto/shamu/proprietary/svsid_triggerogn_ptbr_2_1.raw:system/vendor/moto/audiomonitor/sensory/svsid_triggerogn_ptbr_2_1.raw:moto \
     vendor/moto/shamu/proprietary/com.motorola.triggerenroll.xml:system/etc/permissions/com.motorola.triggerenroll.xml:moto \
     vendor/moto/shamu/proprietary/libtrainingcheck.so:system/lib/libtrainingcheck.so:moto \
+    vendor/moto/shamu/proprietary/audio.motvr.default.so:system/lib/hw/audio.motvr.default.so:moto \
+    vendor/moto/shamu/proprietary/libmotaudioutils.so:system/lib/libmotaudioutils.so:moto \
+    vendor/moto/shamu/proprietary/libfmas.so:system/lib/soundfx/libfmas.so:moto \
+    vendor/moto/shamu/proprietary/audio_voice_apr.cfg:system/etc/diag/audio_voice_apr.cfg:moto \
+    
     
     
 
