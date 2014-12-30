@@ -158,6 +158,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/shamu/proprietary/libchromatix_imx135_video_hd.so:system/vendor/lib/libchromatix_imx135_video_hd.so:qcom \
     vendor/qcom/shamu/proprietary/libchromatix_imx214_common.so:system/vendor/lib/libchromatix_imx214_common.so:qcom \
     vendor/qcom/shamu/proprietary/libchromatix_imx214_cpp.so:system/vendor/lib/libchromatix_imx214_cpp.so:qcom \
+    vendor/qcom/shamu/proprietary/libchromatix_imx214_cpp_snap.so:system/vendor/lib/libchromatix_imx214_cpp_snap.so:qcom \
     vendor/qcom/shamu/proprietary/libchromatix_imx214_default_video.so:system/vendor/lib/libchromatix_imx214_default_video.so:qcom \
     vendor/qcom/shamu/proprietary/libchromatix_imx214_hfr_120.so:system/vendor/lib/libchromatix_imx214_hfr_120.so:qcom \
     vendor/qcom/shamu/proprietary/libchromatix_imx214_hfr_60.so:system/vendor/lib/libchromatix_imx214_hfr_60.so:qcom \
@@ -174,6 +175,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/shamu/proprietary/libdrmtime.so:system/vendor/lib/libdrmtime.so:qcom \
     vendor/qcom/shamu/proprietary/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so:qcom \
     vendor/qcom/shamu/proprietary/libdsutils.so:system/vendor/lib/libdsutils.so:qcom \
+    vendor/qcom/shamu/proprietary/libfrsdk.so:system/vendor/lib/libfrsdk.so:qcom \
     vendor/qcom/shamu/proprietary/libgeofence.so:system/vendor/lib/libgeofence.so:qcom \
     vendor/qcom/shamu/proprietary/libgsl.so:system/vendor/lib/libgsl.so:qcom \
     vendor/qcom/shamu/proprietary/libidl.so:system/vendor/lib/libidl.so:qcom \
