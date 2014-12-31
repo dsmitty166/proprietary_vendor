@@ -16,4 +16,6 @@
 PRODUCT_COPY_FILES := \
     vendor/asus/flo/proprietary/libacdbdata.so:system/lib/libacdbdata.so:asus \
     vendor/asus/flo/proprietary/libAKM.so:system/lib/libAKM.so:asus \
+    vendor/asus/flo/proprietary/libfmas.so:system/lib/soundfx/libfmas.so:asus \
+    vendor/asus/flo/proprietary/fmas_eq.dat:system/etc/fmas_eq.dat:asus \
 
