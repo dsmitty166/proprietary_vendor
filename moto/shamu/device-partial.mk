@@ -123,6 +123,7 @@ PRODUCT_COPY_FILES := \
     vendor/moto/shamu/proprietary/libfmas.so:system/lib/soundfx/libfmas.so:moto \
     vendor/moto/shamu/proprietary/fmas_eq.dat:system/etc/fmas_eq.dat:moto \
     vendor/moto/shamu/proprietary/audio_voice_apr.cfg:system/etc/diag/audio_voice_apr.cfg:moto \
+    vendor/moto/shamu/proprietary/mdm_helper_proxy:system/bin/diag/mdm_helper_proxy:moto \
     
     
     
