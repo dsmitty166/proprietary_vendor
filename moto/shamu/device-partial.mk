@@ -125,6 +125,8 @@ PRODUCT_COPY_FILES := \
     vendor/moto/shamu/proprietary/audio_voice_apr.cfg:system/etc/diag/audio_voice_apr.cfg:moto \
     vendor/moto/shamu/proprietary/mdm_helper_proxy:system/bin/mdm_helper_proxy:moto \
     vendor/moto/shamu/proprietary/cy8c20247_24lkxi.hex:system/vendor/firmware/cy8c20247_24lkxi.hex:moto \
+    vendor/moto/shamu/proprietary/libflacencoder.so:system/lib/libflacencoder.so:moto \
+    vendor/moto/shamu/proprietary/libnativehelper_compat_libc++.so:system/lib/libnativehelper_compat_libc++.so:moto \
     
     
     
