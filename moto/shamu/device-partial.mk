@@ -127,6 +127,10 @@ PRODUCT_COPY_FILES := \
     vendor/moto/shamu/proprietary/cy8c20247_24lkxi.hex:system/vendor/firmware/cy8c20247_24lkxi.hex:moto \
     vendor/moto/shamu/proprietary/libflacencoder.so:system/lib/libflacencoder.so:moto \
     vendor/moto/shamu/proprietary/libnativehelper_compat_libc++.so:system/lib/libnativehelper_compat_libc++.so:moto \
+    vendor/moto/shamu/broadcom/proprietary/bcm20795_firmware.ncd:system/vendor/firmware/bcm20795_firmware.ncd:broadcom \
+    vendor/moto/shamu/proprietary/bcm4354A2.hcd:system/vendor/firmware/bcm4354A2.hcd:broadcom \
+    vendor/moto/shamu/broadcom/proprietary/wlutil:system/xbin/wlutil:broadcom \
+
     
     
     
